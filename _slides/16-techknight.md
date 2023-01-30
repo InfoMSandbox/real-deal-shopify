@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Derek's brand new caption ☕️
 
-![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
+![simba](https://i.imgur.com/QmbAy47.jpg)
 {: .center}
